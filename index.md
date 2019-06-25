@@ -28,7 +28,7 @@ try header3
 
 [Link](url) and ![Image](src)
 ```
-[Link to testpage](https://dhuzmiao.github.io/test.md)
+[Link to testpage](https://dhuzmiao.github.io/test)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

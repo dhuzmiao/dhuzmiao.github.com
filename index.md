@@ -1,8 +1,5 @@
----
-layout: page
----
+# Hello World 
 
-# Page Index
-This site is meant to serve a directory for personal records of life and work.
+    Personal recordings about life and work...
 
-1. [test](/test/)
+1. [The beginning](/log/20200104/)  - January 4, 2020

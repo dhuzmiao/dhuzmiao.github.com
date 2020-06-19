@@ -1,5 +1,9 @@
-# Hello World 
-
-    Personal recordings about life and work...
-
-1. [The beginning](/log_20200104/)  - January 4, 2020
+---
+#
+# By default, content added below the "---" mark will appear in the home page
+# between the top bar and the list of recent posts.
+# To change the home page layout, edit the _layouts/home.html file.
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: home
+---
